@@ -1,5 +1,6 @@
 
-# Please review Branch HP as per SHA Commit
+# Resubmission for a course re run.
+# Assignment 2 : Coursera rprog-013
 ###############################################
 
 # Put comments here that give an overall description of what your
